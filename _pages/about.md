@@ -16,6 +16,7 @@ I'm interested in NLP, embeddings, deep learning, generative AI, and Large Langu
 
 News
 ------
+* Dec. 2024: Passed Ph.D. Preliminary exam, **Embeddings for Complex Structured and Numerical Data with its Application in Data Fusion**.
 * June 2024:  Our paper **Tabular Embeddings for Tables with Bi-Dimensional Hierarchical Metadata and Nesting** was accepted by EDBT 2025.
 * Dec. 2023: Passed Ph.D. Qualifying exam.
 
