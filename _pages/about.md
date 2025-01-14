@@ -6,7 +6,7 @@ redirect_from:
   - /about/
 ---
 
-I'm a fourth-year Ph.D. student in the Department of Computer Science at the Florida State University with a focus on web-scale data science, analytics, and machine learning. I'm fortunate to be advised by Prof. Michael Gubanov at Big Lab. Prior to joining in FSU, I obtained my bachelor degree from Institue of Engineering, Thapathali Camopus at Tribhuvan University and gained valable industry experience for nearly three years.
+I'm a Ph.D. candidate in the Department of Computer Science at the Florida State University with a focus on web-scale data science, analytics, and machine learning. I'm fortunate to be advised by Prof. Michael Gubanov at Big Lab. Prior to joining in FSU, I obtained my bachelor degree from Institute of Engineering, Thapathali Camopus at Tribhuvan University and gained valuable industry experience for nearly three years.
 
 See my up-to-date resume [\[here\]](https://github.com/gyan-shrestha/gyanendrashrestha.github.io/tree/master/files/Gyanendra_Shrestha_Resume.pdf)
 
