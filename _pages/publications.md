@@ -15,7 +15,7 @@ author_profile: true
 International Conference on Extending Database Technology (**EDBT 2025**).
 
 2. Scalable Tabular Hierarchical Metadata Classification in Heterogeneous Structured Large-scale Datasets using Contrastive Learning <br>
-Bhimesh Kandibedala^*, **Gyanendra Shrestha^***, Anna Pyayt, Michael Gubanov. (under review)
+Bhimesh Kandibedala<sup>*</sup>, **Gyanendra Shrestha**<sup>*</sup>, Anna Pyayt, Michael Gubanov. (under review)
 
 3. Num2Vec - Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics <br>
 **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review)
