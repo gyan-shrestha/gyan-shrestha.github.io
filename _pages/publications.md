@@ -23,4 +23,4 @@ Bhimesh Kandibedala*, **Gyanendra Shrestha***, Anna Pyayt, Michael Gubanov. (und
 4. LLM-based Extraction and Fusion of Unstructured and Structured Data <br>
 Sai Ganesh Akula, **Gyanendra Shrestha**, Anna Pyayt, Todor Ivanov, Michael Gubanov. (under review)
 
-*** Equal contribution
+<sup>*</sup> Equal contribution
