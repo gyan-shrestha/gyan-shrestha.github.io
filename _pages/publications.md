@@ -12,7 +12,7 @@ author_profile: true
 1. Scalable Tabular Hierarchical Metadata Classification in Heterogeneous Structured Large-scale Datasets using Contrastive Learning <br>
 Bhimesh Kandibedala<sup>*</sup>, **Gyanendra Shrestha**<sup>*</sup>, Anna Pyayt, Michael Gubanov. (under review)
 
-2. LLM-based Information Extraction in Document Data Lakes (DEMO) <br>
+2. LLM-based Information Extraction in Document Data Lakes (DEMO paper) <br>
 Todor Ivanov, **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review)
 
 3. Extraction of Structured Data from Complex Documents with LLMs <br>
