@@ -20,7 +20,7 @@ Bhimesh Kandibedala*, **Gyanendra Shrestha***, Anna Pyayt, Michael Gubanov. (und
 3. Num2Vec - Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics <br>
 **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review)
 
-4. LLM-based Extraction and Fusion of Unstructured and Structured Data <br>
-Sai Ganesh Akula, **Gyanendra Shrestha**, Anna Pyayt, Todor Ivanov, Michael Gubanov. (under review)
+4. Extraction of Structured Data from Complex Documents with LLMs <br>
+Sai Ganesh Akula, Chutian Jiang, **Gyanendra Shrestha**, Anna Pyayt, Todor Ivanov, Michael Gubanov. (under review)
 
 <sup>*</sup> Equal contribution
