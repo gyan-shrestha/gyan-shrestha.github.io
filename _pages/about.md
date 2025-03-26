@@ -12,10 +12,11 @@ See my up-to-date resume [\[here\]](https://github.com/gyan-shrestha/gyanendrash
 
 Resreach
 ------
-I'm interested in NLP, embeddings, deep learning, generative AI, and Large Language Models. My current research focus on developing deep learning embedding models for tabular data understanding to aid table search and data fusion. I have published research in esteemed conferences like EDBT.
+I'm interested in NLP, embeddings, deep learning, generative AI, and Large Language Models. My current research focus on developing deep learning embedding models for tabular data understanding to aid table search and data fusion. I have published research in esteemed conferences like EDBT, and IEEE ICDE.
 
 News
 ------
+* March 2025:  Our paper **Scalable Tabular Hierarchical Metadata Classification in Heterogeneous Structured Large-scale Datasets using Contrastive Learning** was accepted by IEEE ICDE 2025.
 * Dec. 2024: Passed Ph.D. Preliminary exam, **Embeddings for Complex Structured and Numerical Data with its Application in Data Fusion**.
 * June 2024:  Our paper **Tabular Embeddings for Tables with Bi-Dimensional Hierarchical Metadata and Nesting** was accepted by EDBT 2025.
 * Dec. 2023: Passed Ph.D. Qualifying exam.
