@@ -16,7 +16,10 @@ IEEE International Conference on Data Engineering (**ICDE 2025**).
 2. LLM-based Information Extraction in Document Data Lakes (DEMO paper) <br>
 Todor Ivanov, **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review)
 
-3. Extraction of Structured Data from Complex Documents with LLMs <br>
+3. LLM-based Complex Structured Data Fusion <br>
+**Gyanendra Shrestha**, Anna Pyayt, Todor Ivanov, Michael Gubanov. (under review)
+
+4. LLM-based Information Extraction in Document Data Lakes <br>
 Sai Ganesh Akula, Chutian Jiang, **Gyanendra Shrestha**, Anna Pyayt, Todor Ivanov, Michael Gubanov. (under review)
 
 ### 2024
