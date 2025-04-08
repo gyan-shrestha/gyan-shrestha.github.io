@@ -33,4 +33,4 @@ International Conference on Extending Database Technology (**EDBT 2025**).
 
 
 
-<sup>*</sup> Equal contribution
+<sup>*</sup> Co-first authors
