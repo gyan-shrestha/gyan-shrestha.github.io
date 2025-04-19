@@ -16,7 +16,7 @@ I'm interested in NLP, embeddings, deep learning, generative AI, and Large Langu
 
 News
 ------
-* April 2025: Honored to receive the Outstanding Research Assistant Award for 2024-2025 from the Computer Science Department, FSU
+* April 2025: Honored to receive the Outstanding Research Assistant Award for 2024-2025 from the Computer Science Department, FSU.
 * March 2025:  Our paper **Scalable Tabular Hierarchical Metadata Classification in Heterogeneous Structured Large-scale Datasets using Contrastive Learning** was accepted by IEEE ICDE 2025.
 * Dec. 2024: Passed Ph.D. Preliminary exam, **Embeddings for Complex Structured and Numerical Data with its Application in Data Fusion**.
 * June 2024:  Our paper **Tabular Embeddings for Tables with Bi-Dimensional Hierarchical Metadata and Nesting** was accepted by EDBT 2025.
