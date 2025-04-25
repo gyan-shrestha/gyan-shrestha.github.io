@@ -13,14 +13,15 @@ author_profile: true
 Bhimesh Kandibedala<sup>*</sup>, **Gyanendra Shrestha**<sup>*</sup>, Anna Pyayt, Michael Gubanov <br>
 IEEE International Conference on Data Engineering (**ICDE 2025**), (CORE A+ ranked).
 
-2. LLM-based Information Extraction in Document Data Lakes (DEMO paper) <br>
+2. Demo: LLM-based Information Extraction <br>
 Todor Ivanov, **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review)
 
-3. LLM-based Complex Structured Data Fusion <br>
+3. Demo: LLM-based Data Fusion for Complex Structured Data <br>
+**Gyanendra Shrestha**, Todor Ivanov, Anna Pyayt, Michael Gubanov. (under review)
+
+4. LLM-CSDF: LLM-based Complex Structured Data Fusion <br>
 **Gyanendra Shrestha**, Anna Pyayt, Todor Ivanov, Michael Gubanov. (under review)
 
-4. LLM-based Information Extraction in Document Data Lakes <br>
-Sai Ganesh Akula, Chutian Jiang, **Gyanendra Shrestha**, Anna Pyayt, Todor Ivanov, Michael Gubanov. (under review)
 
 ### 2024
 
