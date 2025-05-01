@@ -22,6 +22,11 @@ Todor Ivanov, **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review
 4. LLM-CSDF: LLM-based Complex Structured Data Fusion <br>
 **Gyanendra Shrestha**, Anna Pyayt, Todor Ivanov, Michael Gubanov. (under review)
 
+5. DocIE: LLM-based Information Extraction for Document Data Lakes <br>
+**Gyanendra Shrestha**, Todor Ivanov, Sai Akula, Anna Pyayt, Michael Gubanov. (under review)
+
+6. Num2Vec - Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics <br>
+**Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review)
 
 ### 2024
 
@@ -29,8 +34,6 @@ Todor Ivanov, **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review
 **Gyanendra Shrestha**, Chutian Jiang, Sai Akula, Vivek Yannam, Anna Pyayt, Michael Gubanov <br>
 International Conference on Extending Database Technology (**EDBT 2025**),  (CORE A ranked).
 
-2. Num2Vec - Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics <br>
-**Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review)
 
 
 
