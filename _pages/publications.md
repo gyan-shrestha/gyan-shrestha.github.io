@@ -10,7 +10,7 @@ author_profile: true
 
 ### 2025
 1. Scalable Tabular Hierarchical Metadata Classification in Heterogeneous Structured Large-scale Datasets using Contrastive Learning <br>
-Bhimesh Kandibedala<sup>*</sup>, **Gyanendra Shrestha**<sup>*</sup>, Anna Pyayt, Michael Gubanov <br>
+Bhimesh Kandibedala<sup>*</sup>, **Gyanendra Shrestha**<sup>*</sup>, Anna Pyayt, Michael Gubanov [\[PDF\]](https://drive.google.com/file/d/1ve_e6vD7Hpc3hHiEoQR3tkjeSiG6IriZ/view?usp=sharing) <br>
 IEEE International Conference on Data Engineering (**ICDE 2025**), (CORE A+ ranked).
 
 2. Demo: LLM-based Information Extraction <br>
