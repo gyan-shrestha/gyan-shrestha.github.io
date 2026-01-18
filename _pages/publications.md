@@ -16,16 +16,17 @@ IEEE International Conference on Data Engineering (**ICDE 2025**), (CORE A+ rank
 2. Demo: LLM-based Information Extraction <br>
 Todor Ivanov, **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review)
 
-3. Demo: LLM-based Data Fusion for Complex Structured Data <br>
-**Gyanendra Shrestha**, Todor Ivanov, Anna Pyayt, Michael Gubanov. (under review)
-
-4. LLM-CSDF: LLM-based Complex Structured Data Fusion <br>
-**Gyanendra Shrestha**, Anna Pyayt, Todor Ivanov, Michael Gubanov. (under review)
-
-5. DocIE: LLM-based Information Extraction for Document Data Lakes <br>
+3. Demo: LLM-based Tabular Data Fusion <br>
 **Gyanendra Shrestha**, Todor Ivanov, Sai Akula, Anna Pyayt, Michael Gubanov. (under review)
 
-6. Num2Vec - Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics <br>
+4. Hemolix.Fusion: LLM-based Fusion of Bi-dimensional Tables with
+Hierarchical Metadata <br>
+**Gyanendra Shrestha**, Anna Pyayt, Todor Ivanov, Michael Gubanov. (under review)
+
+5. Hemolix.Extract: LLM-based Information Extraction for Document Data Lakes <br>
+**Gyanendra Shrestha**, Todor Ivanov, Sai Akula, Anna Pyayt, Michael Gubanov. (under review)
+
+6. Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics <br>
 **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (under review)
 
 ### 2024
