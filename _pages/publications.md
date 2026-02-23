@@ -24,6 +24,7 @@ Hierarchical Metadata <br>
 
 6. LLM-based Information Extraction for Document Data Lakes <br>
 **Gyanendra Shrestha**, Todor Ivanov, Sai Akula, Anna Pyayt, Michael Gubanov. (under review)
+
 ### 2025
 1. Scalable Tabular Hierarchical Metadata Classification in Heterogeneous Structured Large-scale Datasets using Contrastive Learning <br>
 Bhimesh Kandibedala<sup>*</sup>, **Gyanendra Shrestha**<sup>*</sup>, Anna Pyayt, Michael Gubanov [\[PDF\]](https://drive.google.com/file/d/1ve_e6vD7Hpc3hHiEoQR3tkjeSiG6IriZ/view?usp=sharing) <br>
