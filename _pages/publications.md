@@ -9,7 +9,7 @@ author_profile: true
 ## Conference Publications
 
 ### 2026
-1. Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics [\[PDF\]](chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://arxiv.org/pdf/2603.04741 <br>
+1. Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics [\[PDF\]](https://arxiv.org/abs/2603.04741) <br>
 **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (to appear in **ACM SIGMOD 2026**), (CORE A+ ranked).
 
 2. LLM-based IE for Documents with AI-based Optimizer for Plan Selection <br>
