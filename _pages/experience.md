@@ -35,7 +35,7 @@ Software Engineer
 
 Assistant Lecturer
 ======
-* Tribhuvan University, IOE, Thapathali Campus, Nepal (Jan. 2017 - Dec. 2017)
+* Tribhuvan University, IOE, Thapathali Campus, Nepal (May 2017 - Dec. 2017)
   * Collaborated with Professor to prepare lecture notes, grade coursework and held lab sessions for courses including Image Processing and Pattern 
 Recognition (CT72504), and Data Mining (CT72502). 
 
