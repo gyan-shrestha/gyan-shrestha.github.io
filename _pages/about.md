@@ -43,7 +43,7 @@ Experiences
   * Software Engineer, 01/2018 - 02/2020
 
 * @  Tribhuvan University, IOE, Thapathali Campus
-  * Assistant Lecturer, 01/2017 - 12/2017
+  * Assistant Lecturer, 05/2017 - 12/2017
 
 Awards
 ------
