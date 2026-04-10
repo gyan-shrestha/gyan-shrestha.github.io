@@ -9,10 +9,10 @@ author_profile: true
 ## Conference Publications
 
 ### 2026
-1. Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics [\[PDF\]](https://drive.google.com/file/d/1UYiLj6ko4xVuPAhLh4voJSac0RutB8Tt/view?usp=sharing) <br>
+1. Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics [\[PDF\]]<br>
 **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (**ACM SIGMOD 2026**), (CORE A+ ranked).
 
-2. Hemolix.Extract.V: LLM-based Information Extraction for Documents with AI-based Plan Selection [\[PDF\]](https://drive.google.com/file/d/1c9uixLIHJTukdEpPHMCLmT_kzPB8kFJZ/view?usp=sharing) <br>
+2. Hemolix.Extract.V: LLM-based Information Extraction for Documents with AI-based Plan Selection [\[PDF\]]
 Todor Ivanov, **Gyanendra Shrestha**, Karthik Vemireddy, Anna Pyayt, Michael Gubanov. (**ACM SIGMOD-companion 2026**), (CORE A+ ranked).
 
 
