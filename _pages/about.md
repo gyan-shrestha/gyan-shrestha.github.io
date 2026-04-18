@@ -12,7 +12,7 @@ See my up-to-date CV [\[here\]](https://github.com/gyan-shrestha/gyanendrashrest
 
 Resreach
 ------
-I'm interested in NLP, embeddings, deep learning, generative AI, and Large Language Models. My current research focus on developing deep learning embedding models for machine understanding of tables with complex structured and numerical data. My work aims to improve table search, similarity matching, and structured data fusion by designing representations that better capture numerical values, units, and attribute semantics in tabular data. I have published research in esteemed conferences like EDBT, IEEE ICDE, and ACM SIGMOD.
+I'm interested in NLP, embeddings, deep learning, generative AI, and Large Language Models. My current research focus on developing deep learning embedding models for machine understanding of tables with complex structured and numerical data. My work aims to improve table search, similarity matching, and structured data fusion by designing representations that better capture numerical values, units, and attribute semantics in tabular data. I have published research in esteemed conferences like ACL, ACM SIGMOD, EDBT, and IEEE ICDE.
 
 News
 ------
@@ -47,6 +47,7 @@ Experiences
 
 Awards
 ------
+* 2025 Naaman Franklin Faile Jr. Graduate Fellowship
 * 2025 Outstanding Research Assistant Award, FSU
 * 2013 Received Ministry of General Affairs, Nepal Full Academic Scholarship for B.E.
 
