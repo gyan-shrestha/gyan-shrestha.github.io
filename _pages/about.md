@@ -20,9 +20,9 @@ News
 * Feb 2026: Our reserach paper **CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics** was accepted by ACM SIGMOD 2026.
 * Sep 2025: Honored to receive the Naaman Franklin Faile Jr. Graduate Fellowship for 2025.
 * April 2025: Honored to receive the Outstanding Research Assistant Award for 2024-2025 from the Computer Science Department, FSU.
-* March 2025:  Our paper **Scalable Tabular Hierarchical Metadata Classification in Heterogeneous Structured Large-scale Datasets using Contrastive Learning** was accepted by IEEE ICDE 2025.
+* March 2025:  Our reserach paper **Scalable Tabular Hierarchical Metadata Classification in Heterogeneous Structured Large-scale Datasets using Contrastive Learning** was accepted by IEEE ICDE 2025.
 * Dec. 2024: Passed Ph.D. Preliminary exam, **Embeddings for Complex Structured and Numerical Data with its Application in Data Fusion**.
-* June 2024:  Our paper **Tabular Embeddings for Tables with Bi-Dimensional Hierarchical Metadata and Nesting** was accepted by EDBT 2025.
+* June 2024:  Our reserach paper **Tabular Embeddings for Tables with Bi-Dimensional Hierarchical Metadata and Nesting** was accepted by EDBT 2025.
 * Dec. 2023: Passed Ph.D. Qualifying exam.
 
 Experiences
