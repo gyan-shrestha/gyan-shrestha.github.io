@@ -12,7 +12,7 @@ See my up-to-date CV [\[here\]](https://github.com/gyan-shrestha/gyanendrashrest
 
 Resreach
 ------
-I'm interested in NLP, embeddings, deep learning, generative AI, and Large Language Models. My current research focus on developing deep learning embedding models for machine understanding of tables with complex structured and numerical data. My work aims to improve table search, similarity matching, and structured data fusion by designing representations that better capture numerical values, units, and attribute semantics in tabular data. I have published research in esteemed conferences like Association for Computational Linguistics (ACL), ACM Special Interest Group on Management of Data (SIGMOD), International Conference on Extending Database Technology (EDBT), and IEEE International Conference on Data Engineering (ICDE).
+I'm interested in NLP, embeddings, deep learning, generative AI, and Large Language Models. My current research focus on developing deep learning embedding models for machine understanding of tables with complex structured and numerical data. My work aims to improve table search, similarity matching, and structured data fusion by designing representations that better capture numerical values, units, and attribute semantics in tabular data. I have published research in esteemed conferences like **Association for Computational Linguistics (ACL)**, **ACM Special Interest Group on Management of Data (SIGMOD)**, **International Conference on Extending Database Technology (EDBT)**, and **IEEE International Conference on Data Engineering (ICDE)**.
 
 News
 ------
