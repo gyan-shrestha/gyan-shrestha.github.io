@@ -10,10 +10,13 @@ author_profile: true
 
 ### 2026
 1. Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics [\[PDF\]]<br>
-**Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (**ACM SIGMOD 2026**), (CORE A+ ranked).
+**Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (**to appear in ACM SIGMOD 2026**), (CORE A+ ranked).
 
-2. Hemolix.Extract.V: LLM-based Information Extraction for Documents with AI-based Plan Selection [\[PDF\]]
-Todor Ivanov, **Gyanendra Shrestha**, Karthik Vemireddy, Anna Pyayt, Michael Gubanov. (**ACM SIGMOD-companion 2026**), (CORE A+ ranked).
+2. Hemolix.TabGen: Optimized Table Generation from Documents [\[PDF\]]<br>
+**Gyanendra Shrestha**, Todor Ivanov, Karthik Vemireddy, Anna Pyayt, Michael Gubanov. (**to appear in ACL 2026**), (CORE A+ ranked).
+
+3. Hemolix.Extract.V: LLM-based Information Extraction for Documents with AI-based Plan Selection [\[PDF\]]
+Todor Ivanov, **Gyanendra Shrestha**, Karthik Vemireddy, Anna Pyayt, Michael Gubanov. (**to appear in ACM SIGMOD-companion 2026**), (CORE A+ ranked).
 
 
 ### 2025
