@@ -6,7 +6,7 @@ redirect_from:
   - /about/
 ---
 
-I'm a Ph.D. candidate in the Department of Computer Science at the Florida State University with a focus on web-scale data science, analytics, and machine learning. Prior to joining in FSU, I obtained my bachelor degree from Institute of Engineering, Thapathali Camopus at Tribhuvan University and gained valuable industry experience for nearly three years.
+I'm a Ph.D. candidate in the Department of Computer Science at the Florida State University with a focus on web-scale data science, analytics, and machine learning. Prior to joining in FSU, I obtained my bachelor degree from Institute of Engineering, Thapathali Campus at Tribhuvan University and gained valuable industry experience for nearly three years.
 
 Resreach
 ------
@@ -14,6 +14,7 @@ I'm interested in NLP, embeddings, deep learning, generative AI, and Large Langu
 
 News
 ------
+* Feb 2026: Our research paper **CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics** was accepted by ACM SIGMOD 2026.
 * Sep 2025: Honored to receive the Naaman Franklin Faile Jr. Graduate Fellowship for 2025.
 * April 2025: Honored to receive the Outstanding Research Assistant Award for 2024-2025 from the Computer Science Department, FSU.
 * March 2025:  Our reserach paper **Scalable Tabular Hierarchical Metadata Classification in Heterogeneous Structured Large-scale Datasets using Contrastive Learning** was accepted by IEEE ICDE 2025.
