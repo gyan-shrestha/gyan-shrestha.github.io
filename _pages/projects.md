@@ -8,7 +8,7 @@ author_profile: true
 
 {% include base_path %}
 
-* CancerKG (Big Lab, @FSU)
+* CancerKG (BigLab!, @FSU)
   * Web-scale, trustworthy Knowledge Graph on Cancer learned from millions of Web sources. The project is currently in progress. [\[Link\]](http://www.cancerkg.org/) <br>
 * Improving the Accessibility of Dating Websites for Individuals with Visual Impairments
   * Course project (CAP5778 Advanced Data Mining). In this project VGG16 deep CNN model was used for image classification problems to identify any presence of pet animals and indoor-outdoor scenes from user profile images taken from dating websites and then gTTS (Google Text-To-Speech) was used to convert classifier output to audio [\[PDF\]](https://github.com/gyan-shrestha/CAP5778_Advanced_Data_Mining_Project/blob/main/Gyanendra_Soumya%20ADM_Final_Report.pdf) [\[Code\]](https://github.com/gyan-shrestha/CAP5778_Advanced_Data_Mining_Project/tree/main/Final-code) <br>
