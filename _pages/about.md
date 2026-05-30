@@ -6,7 +6,7 @@ redirect_from:
   - /about/
 ---
 
-I'm a Ph.D. candidate in the Department of Computer Science at the Florida State University with a focus on web-scale data science, analytics, and machine learning. Prior to joining in FSU, I obtained my bachelor degree from Institute of Engineering, Thapathali Campus at Tribhuvan University and gained valuable industry experience for nearly three years.
+I'm a Ph.D. candidate in the Department of Computer Science at the Florida State University with a focus on web-scale data science, analytics, and machine learning. I'm fortunate to be advised by Prof. Michael Gubanov at BigLab! Prior to joining in FSU, I obtained my bachelor degree from Institute of Engineering, Thapathali Campus at Tribhuvan University and gained valuable industry experience for nearly three years.
 
 Resreach
 ------
