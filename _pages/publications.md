@@ -12,7 +12,7 @@ author_profile: true
 1. CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics [\[PDF\]](https://dl.acm.org/doi/epdf/10.1145/3802049)<br>
 **Gyanendra Shrestha**, Anna Pyayt, Michael Gubanov. (**ACM SIGMOD 2026**), (CORE A+ ranked).
 
-2. Hemolix.Extract.V: LLM-based Information Extraction for Documents with AI-based Plan Selection [\[PDF\]](https://dl.acm.org/doi/epdf/10.1145/3788853.3801601)
+2. Hemolix.Extract.V: LLM-based Information Extraction for Documents with AI-based Plan Selection [\[PDF\]](https://dl.acm.org/doi/epdf/10.1145/3788853.3801601)<br>
 Todor Ivanov, **Gyanendra Shrestha**, Karthik Vemireddy, Anna Pyayt, Michael Gubanov. (**ACM SIGMOD Companion 2026**), (CORE A+ ranked).
 
 
