@@ -14,7 +14,7 @@ I'm interested in NLP, embeddings, deep learning, generative AI, and Large Langu
 
 News
 ------
-* April 2026: **Optimized Table Generation from Documents** was accepted by ACL 2026. 
+* April 2026: Our paper **Optimized Table Generation from Documents** was accepted by ACL 2026. 
 * March 2026: Our paper **LLM-based Information Extraction for Documents with AI-based Plan Selection** was accepted by ACM SIGMOD 2026.
 * Feb 2026: Our research paper **CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics** was accepted by ACM SIGMOD 2026.
 * Sep 2025: Honored to receive the Naaman Franklin Faile Jr. Graduate Fellowship for 2025.
