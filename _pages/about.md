@@ -51,5 +51,5 @@ Awards
 
 Mentored Students
 ------
-* Sai Ganesh Akula (M.S. in Data Science @ FSU)
+* Sai Ganesh Akula (M.S. in Data Science @ FSU 2025)
   
