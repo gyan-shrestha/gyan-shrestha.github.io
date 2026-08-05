@@ -44,11 +44,17 @@ Experiences
 * @  Tribhuvan University, IOE, Thapathali Campus
   * Assistant Lecturer, 05/2017 - 12/2017
 
-Awards
+Awards & Honors
 ------
 * 2025 Naaman Franklin Faile Jr. Graduate Fellowship
 * 2025 Outstanding Research Assistant Award, FSU
 * 2013 Received Ministry of General Affairs, Nepal Full Academic Scholarship for B.E.
+
+Travel Grants
+------
+* GSRC Presentation Travel Grant, FSU, 2026 ($1,000)
+* Computer Science Department Conference Travel Award, FSU, 2026 ($800)
+* COGS Conference Support Grant, FSU, 2026 ($350)
 
 Mentored Students
 ------
