@@ -40,7 +40,7 @@ Experiences
   * Software Engineer, 06/2020 - 12/2020
  
 * @  E&T Nepal Pvt. Ltd.
-  * Software Engineer, 01/2018 - 02/2020
+  * Machine Learning Software Engineer, 01/2018 - 02/2020
 
 * @  Tribhuvan University, IOE, Thapathali Campus
   * Assistant Lecturer, 05/2017 - 12/2017
