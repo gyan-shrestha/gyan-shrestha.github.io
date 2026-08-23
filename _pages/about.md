@@ -8,12 +8,13 @@ redirect_from:
 
 I'm a Ph.D. candidate in the Department of Computer Science at the Florida State University with a focus on web-scale data science, analytics, and machine learning. I'm fortunate to be advised by Prof. Michael Gubanov at BigLab. I received my M.S. in Computer Science from FSU in July 2026. Prior to joining in FSU, I obtained my bachelor degree from Institute of Engineering, Thapathali Campus at Tribhuvan University and gained nearly three years of industry experience.
 
-Resreach
+Research
 ------
 I'm interested in NLP, embeddings, deep learning, generative AI, and Large Language Models. My current research focus on developing deep learning embedding models for machine understanding of tables with complex structured and numerical data. My work aims to improve table search, similarity matching, and structured data fusion by designing representations that better capture numerical values, units, and attribute semantics in tabular data. I have published research in esteemed conferences like **Association for Computational Linguistics (ACL)**, **ACM Special Interest Group on Management of Data (SIGMOD)**, **International Conference on Extending Database Technology (EDBT)**, and **IEEE International Conference on Data Engineering (ICDE)**.
 
 News
 ------
+* Aug 2026: Invited to serve on the Program Committee for IEEE BigData 2026 (Research Track and Industrial and Government Track).
 * July 2026: Received M.S. in Computer Science from Florida State University.
 * April 2026: Our paper **Optimized Table Generation from Documents** was accepted by ACL 2026. 
 * March 2026: Our paper **LLM-based Information Extraction for Documents with AI-based Plan Selection** was accepted by ACM SIGMOD 2026.
@@ -29,7 +30,7 @@ Experiences
 ------
 
 * @ Florida State Univeresity
-  * Reserach Assistant, 05/2023 - Present
+  * Research Assistant, 05/2023 - Present
   * Teaching Assistant, 08/2021 - Present
   * Research Assistant, Summer 2021 (Supervisor: Prof. Xian Mallory)
  
@@ -47,6 +48,17 @@ Awards & Honors
 * 2025 Naaman Franklin Faile Jr. Graduate Fellowship
 * 2025 Outstanding Research Assistant Award, FSU
 * 2013 Received Ministry of General Affairs, Nepal Full Academic Scholarship for B.E.
+
+Academic Service
+------
+* Program Committee Member, IEEE International Conference on Big Data (IEEE BigData 2026), Research Track
+* Program Committee Member, IEEE BigData 2026, Industrial and Government Track
+* Reviewer, Context Beyond the Window Workshop, Conference on Language Modeling (COLM 2026)
+
+Professional Memberships
+------
+* Association for the Advancement of Artificial Intelligence (AAAI)
+* Association for Computational Linguistics (ACL)
 
 Travel Grants
 ------
