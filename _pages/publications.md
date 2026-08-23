@@ -6,7 +6,7 @@ author_profile: true
 
 ---
 
-## Conference Publications
+## Journal and Conference Publications
 
 ### 2026
 1. CONE: Embeddings for Complex Numerical Data Preserving Unit and Variable Semantics [\[PDF\]](https://dl.acm.org/doi/epdf/10.1145/3802049)<br>
