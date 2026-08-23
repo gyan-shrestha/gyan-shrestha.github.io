@@ -21,7 +21,7 @@ Research Assistant
 
 Graduate Teaching Assistant
 ======
-* Graduate Teaching Assistant in the Department of Computer Science (Aug. 2021 - May. 2024) for courses including Unix Tools (COP4342), Operating Systems (COP4610), Data Structures, and Algorithms (COP4530), Introduction to Data Science (CAP5768), and Advanced Data Science (CAP5769).
+* Graduate Teaching Assistant in the Department of Computer Science (Aug. 2021 - Present) for courses including Unix Tools (COP4342), Operating Systems (COP4610), Data Structures, and Algorithms (COP4530), Introduction to Data Science (CAP5768), and Advanced Data Science (CAP5769).
   * Lead recitation TA for Advanced Data Science (CAP5769), Spring 2024
   * Led laboratory and practice sessions, delivered review lectures, held weekly office hours, supervised student projects, and provided individualized technical guidance for sections of approximately 60 students.
 
