@@ -29,8 +29,8 @@ Experiences
 ------
 
 * @ Florida State Univeresity
-  * Reserach assistant, 05/2024 - Present
-  * Teaching assistant, 08/2021 - 08/2024
+  * Reserach assistant, 05/2023 - Present
+  * Teaching assistant, 08/2021 - Present
 
 * Summer 2021: Research Assistant
   * Florida State University
